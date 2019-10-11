@@ -7,4 +7,4 @@ const removeFirst = arr;
 
 append.push("Odie");
 prepend.unshift("Odie");
-removeLast.pop;
+removeLast.pop();
