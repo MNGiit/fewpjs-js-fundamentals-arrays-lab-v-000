@@ -6,3 +6,4 @@ const removeLast = arr;
 const removeFirst = arr;
 
 append.push("Odie");
+pop
