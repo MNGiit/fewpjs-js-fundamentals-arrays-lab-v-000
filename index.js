@@ -1,10 +1,8 @@
 // Write your solution here!
-const arr = ["Milo", "Otis", "Garfield"];
-const append = arr;
-const prepend = arr;
-const removeLast = arr;
-const removeFirst = arr;
-
+const append = ["Milo", "Otis", "Garfield"];
+const prepend = ["Milo", "Otis", "Garfield"];
+const removeLast = ["Milo", "Otis", "Garfield"];
+const removeFirst = ["Milo", "Otis", "Garfield"];
 append.push("Odie");
 prepend.unshift("Odie");
 removeLast.pop();
